@@ -1,1 +1,1 @@
-This first django blog
+# jango-blog200723
